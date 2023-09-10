@@ -1,0 +1,1 @@
+Next.JS Dashboard Project(TS, MUI, NextAuth)
